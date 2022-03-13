@@ -15,7 +15,7 @@
     "chai-http": "^4.3.0",
     "core-js": "^3.21.1",
     "cors": "^2.8.1",
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "helmet": "^3.23.3",
     "mongodb": "^3.7.3",
     "mongoose": "^6.1.8",
