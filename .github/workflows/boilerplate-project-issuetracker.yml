@@ -1,0 +1,19 @@
+name: Build, Test, Coverage and Report
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build-test-coverage-report:
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/setup-node@v2
+          with:
+            node-version: '16'
+
+        - name: Install Jest
+          run: yarn && yarn add jest --dev
+
+        - name: Node Coverage
+          run: npm run coverage
