@@ -2,7 +2,7 @@ name: Build, Test, Coverage and Report
 
 on:
   push:
-    branches: [ master ]
+    branches: [ gomix ]
 
 jobs:
   build-test-coverage-report:
