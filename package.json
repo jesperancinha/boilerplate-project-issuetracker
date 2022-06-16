@@ -7,23 +7,21 @@
     "start": "node server.js",
     "test": "cross-env NODE_ENV=test mocha -u tdd --full-trace tests/*.js",
     "prepare": "npm run snyk-protect",
+    "coverage": "jest --coverage",
     "snyk-protect": "snyk-protect"
   },
   "dependencies": {
+    "@snyk/protect": "1.952.0",
     "body-parser": "^1.20.0",
-    "chai": "^3.5.0",
+    "chai": "^4.3.6",
     "chai-http": "^4.3.0",
-    "core-js": "^3.22.7",
-    "cors": "^2.8.1",
+    "core-js": "^3.23.1",
+    "cors": "^2.8.5",
     "express": "^4.18.1",
-    "helmet": "^3.23.3",
-    "mongodb": "^3.7.3",
-    "mongoose": "^6.3.4",
-    "zombie": "^6.1.4",
-    "@snyk/protect": "1.939.0"
-  },
-  "engines": {
-    "node": "4.4.3"
+    "helmet": "^5.1.0",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.8",
+    "zombie": "^6.1.4"
   },
   "repository": {
     "type": "git",
@@ -36,10 +34,11 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "cross-env": "^5.2.0",
-    "chai": "^3.5.0",
+    "chai": "^4.3.6",
     "chai-http": "^4.3.0",
-    "mocha": "^6.1.4"
+    "cross-env": "^7.0.3",
+    "jest": "^28.1.1",
+    "mocha": "^10.0.0"
   },
   "snyk": true
 }
