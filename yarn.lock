@@ -1241,10 +1241,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@snyk/protect@1.1057.0":
-  version "1.1057.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1057.0.tgz#c03b3e4e5671fd91a60f6f0718515eac01aa5c4a"
-  integrity sha512-UI3SusOlv/suWaSxb9zT80gX6YyuDTHLPTHtcmhFLV+J1U6YyOgopH6PS0TKEsSrHZDTuhNOzwpQU/ke8CSPHA==
+"@snyk/protect@1.1058.0":
+  version "1.1058.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1058.0.tgz#a236e79662d3ec34e410f163706bbbc938b78cb6"
+  integrity sha512-8AIRMlaoAY1yEk7+4RDV957Pszt/UEVhr2qdC7PTFa1mELb9/fNwqJ2KTBMhBKarSFEZrM5ZWPe91ogHIT49+Q==
 
 "@types/babel__core@^7.1.14":
   version "7.1.19"
