@@ -20,7 +20,7 @@
     "express": "^4.18.2",
     "helmet": "^6.0.1",
     "mongodb": "^5.1.0",
-    "mongoose": "^7.0.0",
+    "mongoose": "^7.0.1",
     "zombie": "^6.1.4"
   },
   "repository": {
