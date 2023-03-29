@@ -579,10 +579,10 @@
   dependencies:
     "@sinonjs/commons" "^2.0.0"
 
-"@snyk/protect@1.1128.0":
-  version "1.1128.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1128.0.tgz#5245df6bcd600ea73dbfd0e71dca8c4bf3701b98"
-  integrity sha512-jlVkYlavOqkRxt5I/78W4ez7bi7TcTlrCj5rk+snMKIk2TnC2iAv8U+fFRwad1EZrziqGFIvYqKpO/Nt/so8fg==
+"@snyk/protect@1.1129.0":
+  version "1.1129.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1129.0.tgz#c25d6d06a04f4f9a6ad51c95f63359239a4a8b93"
+  integrity sha512-uN1Aill35FBmBLaww1YqmsDU5XY02yr6+bOgFpPGErmYynmPrefEN96LeefmPfrGBIVrmA+g17vfZq6BlBRO3g==
 
 "@types/babel__core@^7.1.14":
   version "7.1.19"
