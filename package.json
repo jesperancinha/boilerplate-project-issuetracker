@@ -19,7 +19,7 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "helmet": "^7.0.0",
-    "mongodb": "^5.8.1",
+    "mongodb": "^6.0.0",
     "mongoose": "^7.4.5",
     "zombie": "^6.1.4"
   },
