@@ -11,7 +11,7 @@
     "snyk-protect": "snyk-protect"
   },
   "dependencies": {
-    "@snyk/protect": "1.1297.1",
+    "@snyk/protect": "1.1297.2",
     "body-parser": "^2.2.0",
     "chai": "^5.1.0",
     "chai-http": "^5.0.0",
