@@ -10,3 +10,5 @@ deps-plugins-update:
 deps-node-update:
 	curl -sL https://raw.githubusercontent.com/jesperancinha/project-signer/master/nodeUpdatesOne.sh | bash
 deps-quick-update: deps-plugins-update deps-node-update
+update-repo-prs:
+	curl -sL https://raw.githubusercontent.com/jesperancinha/project-signer/master/update-all-repo-prs.sh | bash
